@@ -9,4 +9,4 @@ I'm **Andres David Camargo Arcos**, a **Full Stack Developer** and **AWS Cloud P
 
 🔧 Let's create amazing projects together!  
 
-📫 Reach out via [LinkedIn](https://linkedin.com/in/andres-david-camargo-arcos-b842a9210/) or [GitHub](https://github.com/AndresDavidArcos).
+📫 Reach out via [LinkedIn](https://linkedin.com/in/andres-david-camargo-arcos-b842a9210/).
