@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm **Andres David Camargo Arcos**, a **Full Stack Developer** and **AWS Cloud Practitioner**. I also like coding Chrome Web Extensions for hobby.  
+I'm **Andres David Camargo Arcos**, a **Full Stack Developer** and **AWS Cloud Practitioner**. I also enjoy developing Chrome Web Extensions.  
 
 🌟 **Tech Stack**:  
 - **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
